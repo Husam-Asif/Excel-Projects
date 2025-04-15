@@ -67,11 +67,6 @@ This workbook spans **3 days of exercises** designed to build core skills in wor
 
 ---
 
-## 📎 Files Included
-- Workbook (PDF): `Data_Technician_Workbook_Week1_Husam_Asif.pdf`
-- Screenshots of Excel tasks (embedded within the PDF)
-- External datasets (linked via SharePoint in the workbook)
-
 ---
 
 ## 🧰 Tools & Skills Practiced
