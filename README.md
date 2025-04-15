@@ -3,8 +3,9 @@ Summary of my project
 
 # 📊 Data Technician Workbook – Week 1
 
-![Excel Logo](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg)
-
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel" />
+</a>
 Welcome to my **Data Technician Week 1 workbook** submission. This repository contains a detailed record of my hands-on learning activities completed as part of the Data Technician training program. The tasks primarily involve data analysis and spreadsheet manipulation using Microsoft Excel.
 
 ---
@@ -74,7 +75,11 @@ This workbook spans **3 days of exercises** designed to build core skills in wor
 ---
 
 ## 🧰 Tools & Skills Practiced
-- ![Excel Icon](https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013_logo.svg) **Microsoft Excel**: Pivot Tables, Table Creation, Filtering, Formulas (`SUM`, `AVERAGE`, `SWITCH`)
+-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="36" height="36" alt="Excel" />
+</a>
+
+**Microsoft Excel**: Pivot Tables, Table Creation, Filtering, Formulas (`SUM`, `AVERAGE`, `SWITCH`)
 - Data compliance knowledge (UK/EU regulations)
 - Analytical thinking and summarization
 - Visual communication via charts and tables
